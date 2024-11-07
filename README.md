@@ -1,2 +1,2 @@
-# testing
-Base testing projects
+# RestAssured
+Basic serrings for Rest Assured framework project
