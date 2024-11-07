@@ -1,2 +1,2 @@
 # RestAssured
-Basic serrings for Rest Assured framework project
+Basic settings for Rest Assured framework project
