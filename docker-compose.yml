@@ -1,0 +1,11 @@
+version: "version"
+services:
+  java-api-demo:
+    image: image
+    user: "user:user"
+    container_name: java-api-demo
+    working_dir: /DATA/
+    volumes:
+      - ./:/DATA/
+      - ./settings.xml:/usr/share/maven/conf/settings.xml
+    command: mvn clean test

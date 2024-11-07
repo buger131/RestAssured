@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Язык реализации</key>
+        <value>Java 19.0.1</value>
+    </parameter>
+    <parameter>
+        <key>Сервер</key>
+        <value>server</value>
+    </parameter>
+    <parameter>
+        <key>Пользователь</key>
+        <value>user</value>
+    </parameter>
+</environment>

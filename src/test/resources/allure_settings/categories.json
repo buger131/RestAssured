@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Пропущенные тесты",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "Ошибки проекта",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Ошибки АТ",
+    "matchedStatuses": ["broken"]
+  }
+]
